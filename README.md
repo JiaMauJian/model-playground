@@ -3,6 +3,7 @@
 
 * [1-D Gaussian](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Classification%20(v3).pdf#page=26)
 * [Anomaly Detection 看了之後就搞清楚老師講的1-D guassian distribution，重點在feature間是否相依，有相依就用Multivariate guassian，沒有就用1-D guassian](https://marcovaldong.github.io/2016/04/11/Machine-Learning%E7%AC%AC%E4%B9%9D%E5%91%A8%E7%AC%94%E8%AE%B0%EF%BC%9A%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B%E5%92%8C%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/)
+* [Anomaly Detection Example](https://github.com/aqibsaeed/Anomaly-Detection/blob/master/Anomaly%20Detection.ipynb)
 
 # model-playground
 
