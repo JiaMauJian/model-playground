@@ -1,3 +1,6 @@
+# naïve Bayes model和generative model的關係是?
+老師:應該是說 naïve Bayes model 是 generative model 的一種，generative model 假設 data 來自某個 probabilistic distribution ，但至於這個 distribution 是什麼需要由人來決定，如果我們所選的 distribution 產生每個 feature 的機率是 independent 的，那我們用的是 naïve Bayes model
+
 # model-playground
 
 * keras玩玩
