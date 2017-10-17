@@ -38,7 +38,7 @@ Hi 你好,
 Thanks,
 Chun-Min Chang
 
-2016-12-20 16:55 GMT+08:00 allen_chien / 簡嘉懋 <allen_chien@motech.com.tw>:
+2016-12-20 16:55 GMT+08:00 allen
 張老師 你好,
  
 請問一下為何評估NN的架構沒有提到用Cross Validation K-Fold的方式
