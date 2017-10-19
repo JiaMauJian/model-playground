@@ -1,3 +1,9 @@
+# ScrappyKnn
+原來python可以這樣玩
+
+# Backpropagation
+老師說得好，清楚易懂，加上Siraj Raval給的範例實作一下，更清楚Backpropagation是怎麼算的，但實際上我還是用現成Keras的好了
+
 # naïve Bayes model和generative model的關係是?
 老師:應該是說 naïve Bayes model 是 generative model 的一種，generative model 假設 data 來自某個 probabilistic distribution ，但至於這個 distribution 是什麼需要由人來決定，如果我們所選的 distribution 產生每個 feature 的機率是 independent 的，那我們用的是 naïve Bayes model
 
