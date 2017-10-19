@@ -1,5 +1,6 @@
-# ScrappyKnn
-原來python可以這樣玩
+# ScrappyKnn & DecisionTreeClassifier
+ 1. Josh Gordon影片可以看看，簡單易懂有趣
+ 2. 原來python可以這樣玩
 
 # Backpropagation
 老師說得好，清楚易懂，加上Siraj Raval給的範例實作一下，更清楚Backpropagation是怎麼算的，但實際上我還是用現成Keras的好了
