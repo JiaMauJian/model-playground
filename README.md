@@ -1,3 +1,7 @@
+# MEMO
+ * Bias太大 -> model能力不足，連考古題都不會做 , Variance太大 -> model能力太強，但遇到真正考試沒看過的題目時就傻掉了
+ * 做EarlyStopping, Regularization, Dropout就是不要 "練過頭"
+
 # ScrappyKnn & DecisionTreeClassifier
  1. Josh Gordon影片可以看看，簡單易懂有趣
  2. 原來python可以這樣玩
