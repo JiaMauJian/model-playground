@@ -1,9 +1,14 @@
+## 記得林軒田講過一句話很傳神: 如果我們知道真實世界的f，就不用機器學習了
+
+
+
 # Fashion-MNIST
  * https://qiita.com/shinobu_shiva/items/2498edc0808df792bc3a
  
 # MEMO
- * Bias太大 -> model能力不足，連考古題都不會做 , Variance太大 -> model能力太強，但遇到真正考試沒看過的題目時就傻掉了
+ * Bias太大 -> model能力不足，連考古題都不會做，Variance太大 -> model能力太強，但遇到真正考試沒看過的題目時就傻掉了，就好的Model會舉一反三
  * 做EarlyStopping, Regularization, Dropout就是不要 "練過頭"
+ * Training/Validation/Testing Set https://youtu.be/--E5qo_XnXo
 
 # ScrappyKnn & DecisionTreeClassifier
  1. Josh Gordon影片可以看看，簡單易懂有趣
