@@ -1,3 +1,9 @@
+## 使用ReLU的錯覺
+ * 問:有一NN網路，input->ReLU->ouput如果有一筆資料經過運算後(a1=wx+b)再通過ReLU(z1 = max(0, a1))，得到z1是0的時候，那反向回來的grad不都是0，這樣下次訓練時，不就都是乘上weight=0
+ * 答:update weight方式全部看過一次sample或是by batch，才去update weight，但如果是sgd就有可能會發生weight=0，model無法訓練狀態
+ * 但實際應用中也不會有這麼簡單的NN網路架構，就算是用sgd也不可能全部的隱藏層的ReLU"剛好"都是輸出0
+ 
+
 ## 記得林軒田講過一句話很傳神: 如果我們知道真實世界的f，就不用機器學習了
 
 
