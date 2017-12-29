@@ -1,3 +1,7 @@
+## 把Ensemble再重聽幾次，了解Bagging, Boosting, Stacking之Ensemble方法
+ * [Ensemble](https://www.youtube.com/watch?v=QsO2zyED7Lw)
+ * 如果想了解XGBoost，先了解為何要用Boosting以及Boosting方法的演進 (AdaBoost -> Gradient Boost...)
+ 
 ## 使用ReLU的錯覺
  * 請看ReLU Testing2
 
