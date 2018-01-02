@@ -1,3 +1,6 @@
+## 为什么在实际的 kaggle 比赛中 gbdt 和 random forest 效果非常好？
+ * https://www.zhihu.com/question/51818176
+ 
 ## 把Ensemble再重聽幾次，了解Bagging, Boosting, Stacking之Ensemble方法
  * [Ensemble](https://www.youtube.com/watch?v=QsO2zyED7Lw)
  * 如果想了解XGBoost，先了解為何要用Boosting以及Boosting方法的演進 (AdaBoost -> Gradient Boost...)
